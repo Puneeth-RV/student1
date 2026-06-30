@@ -1,3 +1,4 @@
+# rmdir /s /q .git
 from collections import deque
 
 #BFS
